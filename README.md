@@ -1,30 +1,27 @@
-# Игра "Последовательность Чисел"
+## Memory Game
+This is a simple game where the user is shown a sequence of numbers for a short time, and then the user must enter the sequence in the correct order. The game is created using Vite and React.
 
-## Описание
-
-Это простая игра, в которой пользователю показывается последовательность чисел на короткое время, а затем пользователь должен ввести эту последовательность в правильном порядке. Игра создана с использованием Vite и React.
-
-## Технологии
+## Technologies
 
 *   React
 *   Vite
 *   JavaScript
 
-## Установка
+## Installation
 
-1.  Клонируйте репозиторий:
+1. Clone the repository:
 
     ```bash
     git clone [https://github.com/vareshka0101/Memory_game]
     cd memory_game
     ```
 
-2.  Установите зависимости:
+2. Install dependencies:
 
     ```bash
     npm install  # или yarn install, pnpm install
     ```
 
-## Запуск:
+## Running:
 
 npm run dev  # или yarn dev, pnpm dev
