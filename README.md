@@ -16,7 +16,7 @@
 
     ```bash
     git clone [[Memory_game](https://github.com/vareshka0101/Memory_game)
-    [cd game_fruit]
+    cd game_fruit
     ```
 
 2.  Установите зависимости:
