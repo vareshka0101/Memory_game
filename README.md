@@ -25,4 +25,6 @@
     npm install  # или yarn install, pnpm install
     ```
 
-## Запуск
+## Запуск:
+
+npm run dev  # или yarn dev, pnpm dev
