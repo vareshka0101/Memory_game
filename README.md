@@ -8,6 +8,7 @@ This is a simple game where the user is shown a sequence of numbers for a short 
 *   Vite
 *   JavaScript
 <img width="476" height="472" alt="Безымянный" src="https://github.com/user-attachments/assets/f2792f96-44b9-4cad-8b46-5bd7c26e7a57" />
+
 ## Installation
 
 1. Clone the repository:
