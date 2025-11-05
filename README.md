@@ -12,7 +12,7 @@ This is a simple game where the user is shown a sequence of numbers for a short 
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/vareshka0101/Memory_game]
+    git clone https://github.com/vareshka0101/Memory_game
     cd memory_game
     ```
 
