@@ -1,12 +1,32 @@
-# React + Vite
+# Игра "Последовательность Чисел"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Описание
 
-Currently, two official plugins are available:
+Это простая игра, в которой пользователю показывается последовательность чисел на короткое время, а затем пользователь должен ввести эту последовательность в правильном порядке. Игра создана с использованием Vite и React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Демо
 
-## Expanding the ESLint configuration
+[Здесь могла быть ссылка на развернутую версию игры (например, на Netlify, Vercel или GitHub Pages)]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Технологии
+
+*   React
+*   Vite
+*   JavaScript / TypeScript (в зависимости от вашей реализации)
+
+## Установка
+
+1.  Клонируйте репозиторий:
+
+    ```bash
+    git clone [URL вашего репозитория]
+    cd [название вашей папки с игрой]
+    ```
+
+2.  Установите зависимости:
+
+    ```bash
+    npm install  # или yarn install, pnpm install
+    ```
+
+## Запуск
