@@ -15,7 +15,7 @@
 1.  Клонируйте репозиторий:
 
     ```bash
-    git clone [[Memory_game](https://github.com/vareshka0101/Memory_game)
+    git clone [https://github.com/vareshka0101/Memory_game]
     cd game_fruit
     ```
 
